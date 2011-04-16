@@ -38,3 +38,6 @@ LICENSE
 
 Released under the GPL license
 http://www.gnu.org/copyleft/gpl.html
+
+
+Also, this is a straight rip of my [Forrst keyboard shortcut script](https://github.com/bdotdub/forrst-keyboard-navigation-greasemonkey)

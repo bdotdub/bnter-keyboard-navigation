@@ -27,7 +27,7 @@ Firefox. You must have this to run this Greasemonkey script.
 Or if you use [Chrome](http://www.google.com/chrome), it should work without
 any extensions, just follow the next step.
 
-Then go to http://github.com/bdotdub/bnter-keyboard-navigation/raw/master/bnter_keyboard_navigation.user.js
+Then go to [http://github.com/bdotdub/bnter-keyboard-navigation/raw/master/bnter_keyboard_navigation.user.js](http://github.com/bdotdub/bnter-keyboard-navigation/raw/master/bnter_keyboard_navigation.user.js)
 and it should prompt you to install it.
 
 And that's it!
